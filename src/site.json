@@ -8,5 +8,6 @@
   "url": "https://fashion.guidehollow.com/",
   "launchReady": true,
   "adsReady": false,
-  "pageTitle": "패션·옷 관리 이용·관리 안내 | GuideHollow"
+  "pageTitle": "패션·옷 관리 이용·관리 안내 | GuideHollow",
+  "coupangEnabled": true
 }
